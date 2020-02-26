@@ -12,4 +12,4 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/derferickc/pixabay-api-react`
+- Clone this repo to your local machine using `https://github.com/derferickc/phonebook-lifting-state`
